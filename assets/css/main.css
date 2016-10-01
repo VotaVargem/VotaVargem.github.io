@@ -31,6 +31,7 @@ h1 {
 
 h2 {
 	font-size: 28px;
+	text-align: left;
 }
 
 h3 {
@@ -93,6 +94,15 @@ a:after {
     height: 1px;
     border: 0;
     border-top: 1px solid #002776;
+    margin: 1em 0;
+    padding: 0;
+}
+
+hv {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-left: thick solid #002776;
     margin: 1em 0;
     padding: 0;
 }
