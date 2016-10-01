@@ -29,6 +29,10 @@ h1 {
 	font-size: 40px;
 }
 
+h2 {
+	font-size: 28px;
+}
+
 h3 {
 	color: #95a5a6;
 	font-weight: 400;
@@ -38,6 +42,11 @@ h4 {
 	color: #95a5a6;
 	font-weight: 400;
 	font-size: 20px;
+}
+
+h5 {
+	font-size: 28px;
+	text-align: right;
 }
 
 /* Paragraph & Typographic */
